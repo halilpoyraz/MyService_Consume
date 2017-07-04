@@ -1,0 +1,1 @@
+MyService uygulamasý ana servistir. MyServiceTuket uygulamsý tarafndan kullanýlabilmesi için çalýþýyor olmasý gerekir. Yoksa MyServiceTuket ten yapýlan iþlemler MyService eriþememz ve cevap vermez.
